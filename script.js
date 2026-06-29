@@ -1,4 +1,4 @@
-const whatsappNumber = "5511999999999";
+const whatsappNumber = "5511945942354";
 const whatsappBase = `https://wa.me/${whatsappNumber}`;
 
 window.addEventListener("load", () => {
